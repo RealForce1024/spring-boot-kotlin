@@ -1,0 +1,16 @@
+# gradle
+/build
+
+# idea
+.idea
+*.iml
+local.properties
+
+# mr (see .mrconfig)
+wiki
+
+# vim
+*.sw?
+
+# generated code
+.teamcity
